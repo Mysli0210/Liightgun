@@ -1,0 +1,7 @@
+ardu - reality
+1 - 5 SDA
+2 - 3 NC
+3 - 1 3v3
+4 - 6 GND
+5 - 4 SCL
+6 - 2 NC
